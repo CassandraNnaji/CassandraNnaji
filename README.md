@@ -24,6 +24,13 @@
 
 - <b>Tableau</b>
   - [Covid Deaths & Vaccinations Dashboard](https://public.tableau.com/app/profile/cassandra7850/viz/CovidDashboard_17110185743220/Dashboard1)
+
+
+<h2>Certifications:</h2>
+
+
+  - [Google Data Analytics Professional Certification](file:///Users/cassandrannaji/Desktop/Google%20Data%20Analytics%20Cetification%20.pdf)
+  - [Google Advanced Data Analytics Professional Certification](file:///Users/cassandrannaji/Desktop/Google%20Advanced%20Data%20Analytics%20Certification.pdf) 
   
 
 <h2> 🤳 Connect with me:</h2>
