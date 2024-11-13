@@ -22,7 +22,10 @@
 
 <h2>📺 Data Visualization (Tableau & Excel Dashboards)</h2>
 
-- 
+- <b>Tableau</b>
+  - [Covid Deaths & Vaccinations Dashboard](https://public.tableau.com/app/profile/cassandra7850/viz/CovidDashboard_17110185743220/Dashboard1)
+  
+
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="CassandraNnaji | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
