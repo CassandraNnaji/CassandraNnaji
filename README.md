@@ -16,7 +16,7 @@
   - [Pizza Sales Business Performance](https://github.com/CassandraNnaji/Pizza-Sales-Business-Performance-)
 
 - <b>Excel</b>
-  -[Pizza Sales Business Performance Charts & Dashboard](https://github.com/CassandraNnaji/Pizza-Sales-Business-Performance-/blob/main/Pizza%20Sales%20Charts%20%26%20Dashboard.xlsx)
+  - [Pizza Sales Business Performance Charts & Dashboard](https://github.com/CassandraNnaji/Pizza-Sales-Business-Performance-/blob/main/Pizza%20Sales%20Charts%20%26%20Dashboard.xlsx)
 
 - <b>R Programming</b>
   - [Bike Share Analysis Project](https://github.com/CassandraNnaji/Bike-Share-Analysis-Project)
