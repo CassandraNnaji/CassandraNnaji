@@ -15,9 +15,6 @@
   - [Nashville Housing SQL Cleaning](https://github.com/CassandraNnaji/Nashville-Housing-SQL-Cleaning)
   - [Pizza Sales Business Performance](https://github.com/CassandraNnaji/Pizza-Sales-Business-Performance-)
 
-- <b>Excel</b>
-  - [Pizza Sales Business Performance Charts & Dashboard](https://github.com/CassandraNnaji/Pizza-Sales-Business-Performance-/blob/main/Pizza%20Sales%20Charts%20%26%20Dashboard.xlsx)
-
 - <b>R Programming</b>
   - [Bike Share Analysis Project](https://github.com/CassandraNnaji/Bike-Share-Analysis-Project)
   
@@ -26,6 +23,9 @@
 
 - <b>Tableau</b>
   - [Covid Deaths & Vaccinations Dashboard](https://public.tableau.com/app/profile/cassandra7850/viz/CovidDashboard_17110185743220/Dashboard1)
+
+- <b>Excel</b>
+  - [Pizza Sales Business Performance Charts & Dashboard](https://github.com/CassandraNnaji/Pizza-Sales-Business-Performance-/blob/main/Pizza%20Sales%20Charts%20%26%20Dashboard.xlsx)
 
 
 <h2>Certifications:</h2>
