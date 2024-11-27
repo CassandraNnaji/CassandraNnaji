@@ -26,6 +26,7 @@
 
 - <b>Excel</b>
   - [Pizza Sales Business Performance Charts & Dashboard](https://github.com/CassandraNnaji/Pizza-Sales-Business-Performance-/blob/main/Pizza%20Sales%20Charts%20%26%20Dashboard.xlsx)
+    (To view Dashboard please click "view raw")
 
 
 <h2>Certifications:</h2>
