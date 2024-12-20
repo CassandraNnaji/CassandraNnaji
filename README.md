@@ -23,6 +23,7 @@
 
 - <b>Tableau</b>
   - [Covid Deaths & Vaccinations Dashboard](https://public.tableau.com/app/profile/cassandra7850/viz/CovidDashboard_17110185743220/Dashboard1)
+  - [HR Analytics Dashboard](https://public.tableau.com/app/profile/cassandra7850/viz/CovidDashboard_17110185743220/Dashboard1)
 
 - <b>Excel</b>
   - [Pizza Sales Business Performance Charts & Interactive Dashboard](https://github.com/CassandraNnaji/Pizza-Sales-Business-Performance-/blob/main/Pizza%20Sales%20Charts%20%26%20Dashboard.xlsx)
