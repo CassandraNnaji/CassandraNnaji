@@ -24,12 +24,13 @@
 - <b>Tableau</b>
   - [Covid Deaths & Vaccinations Dashboard](https://public.tableau.com/app/profile/cassandra7850/viz/CovidDashboard_17110185743220/Dashboard1)
   - [HR Analytics Interactive Dashboard](https://github.com/CassandraNnaji/HR-Analytics-Dashboard-Overview)
+    (To view Dashboard please click link and scroll down to dashboard link)
 
 - <b>Excel</b>
   - [Pizza Sales Business Performance Charts & Interactive Dashboard](https://github.com/CassandraNnaji/Pizza-Sales-Business-Performance-/blob/main/Pizza%20Sales%20Charts%20%26%20Dashboard.xlsx)
-    (To view Dashboard please click "view raw")
+    (To view Dashboard please click link then click "view raw")
   - [Coffee Sales Performance Interactive Dashboard](https://github.com/CassandraNnaji/Coffee-Sales/blob/main/Coffee%20Orders%20Dashboard.xlsx)
-    (To view Dashboard please click "view raw")
+    (To view Dashboard please click link then click "view raw")
 
 
 <h2>Certifications:</h2>
