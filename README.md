@@ -19,7 +19,7 @@
   - [Bike Share Analysis Project](https://github.com/CassandraNnaji/Bike-Share-Analysis-Project)
   
 
-<h2>📺 Data Visualization (Tableau & Excel Dashboards):</h2>
+<h2>📺 Data Visualization (Tableau and Excel Dashboards, Visuals, and Presentations):</h2>
 
 - <b>Tableau</b>
   - [Covid Deaths & Vaccinations Dashboard](https://public.tableau.com/app/profile/cassandra7850/viz/CovidDashboard_17110185743220/Dashboard1)
