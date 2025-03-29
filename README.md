@@ -35,6 +35,7 @@
 - <b>Canva Presentations</b>
   - [Predicting Salifort Motors Employee Turnover Presentation](https://www.canva.com/design/DAF2_Ip4eD8/59YvgyygcJk_KBlW6h1w_w/view?utm_content=DAF2_Ip4eD8&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h3414575446)
   - [Predicting Waze App User Churn Presentation](https://www.canva.com/design/DAF2TD7JBMA/Vrj3EikPLJlni0Z_VZvUHw/view?utm_content=DAF2TD7JBMA&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h28031eda23)
+  - [Cyclistic Bike-Sharing Presentation](https://www.canva.com/design/DAGi2B7s_1A/_iujkmMAmoZN-RSXK8b4Qw/view?utm_content=DAGi2B7s_1A&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h39e53159f1)
 
 <h2>Certifications:</h2>
 
