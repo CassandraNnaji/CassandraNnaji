@@ -15,6 +15,9 @@
   - [Nashville Housing SQL Cleaning](https://github.com/CassandraNnaji/Nashville-Housing-SQL-Cleaning)
   - [Pizza Sales Business Performance](https://github.com/CassandraNnaji/Pizza-Sales-Business-Performance-)
 
+- <b>Excel</b>
+  - [Netflix Content Analysis](https://github.com/CassandraNnaji/Netflix-Content-Analysis)
+    
 - <b>R Programming</b>
   - [Bike Share Analysis Project](https://github.com/CassandraNnaji/Bike-Share-Analysis-Project)
   
