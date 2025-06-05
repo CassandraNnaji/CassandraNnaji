@@ -36,6 +36,7 @@
     (To view Dashboard please click link then click "view raw")
   - [Coffee Sales Performance Interactive Dashboard](https://github.com/CassandraNnaji/Coffee-Sales/blob/main/Coffee%20Orders%20Dashboard.xlsx)
     (To view Dashboard please click link then click "view raw")
+  - [Netflix Content Dashboard](https://github.com/CassandraNnaji/Netflix-Content Analysis/blob/main/Netflix%20Official%20Dashboard.png)
 
 - <b>Canva Presentations</b>
   - [Predicting Salifort Motors Employee Turnover Presentation](https://www.canva.com/design/DAF2_Ip4eD8/59YvgyygcJk_KBlW6h1w_w/view?utm_content=DAF2_Ip4eD8&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h3414575446)
