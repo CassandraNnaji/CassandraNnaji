@@ -4,6 +4,7 @@
 <h2>👨‍💻 Data Analysis & Python App Development Projects:</h2>
 
 - <b>Python App Development</b>
+  - [Vacation Budget Tracker App](https://github.com/CassandraNnaji/Vacation-Budget-Tracker-App/tree/main) 
 
 - <b>Python Data Analysis (Including Machine Learning)</b>
   - [Mental Health in Sports: A Comparative Analysis of Elite, Semi-Elite, and Non-Elite Athletes](https://github.com/CassandraNnaji/Athlete-and-Non-Athlete-Mental-Health-Project)
