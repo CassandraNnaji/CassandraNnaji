@@ -1,7 +1,7 @@
 <h1>Hi, I'm Cassandra! 
 
   
-<h2>👨‍💻 Data Analysis Projects:</h2>
+<h2>👨‍💻 Data Analysis & Python App Development Projects:</h2>
 
 - <b>Python (Including Machine Learning)</b>
   - [Mental Health in Sports: A Comparative Analysis of Elite, Semi-Elite, and Non-Elite Athletes](https://github.com/CassandraNnaji/Athlete-and-Non-Athlete-Mental-Health-Project)
