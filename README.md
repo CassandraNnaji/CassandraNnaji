@@ -3,7 +3,9 @@
   
 <h2>👨‍💻 Data Analysis & Python App Development Projects:</h2>
 
-- <b>Python (Including Machine Learning)</b>
+- <b>Python App Development</b>
+
+- <b>Python Data Anlysis (Including Machine Learning)</b>
   - [Mental Health in Sports: A Comparative Analysis of Elite, Semi-Elite, and Non-Elite Athletes](https://github.com/CassandraNnaji/Athlete-and-Non-Athlete-Mental-Health-Project)
   - [Predicting Salifort Motors Employee Turnover](https://github.com/CassandraNnaji/Salifort-Motors-Machine-Learning-project)
   - [Predicting Waze App User Churn](https://github.com/CassandraNnaji/Waze-App-User-Churn-Project-Machine-Learning-)
